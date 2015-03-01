@@ -1,4 +1,4 @@
-package com.mrucki.coursera.algorithm.programmingassignments;
+package com.mrucki.coursera.algorithm.programmingassignments.week1;
 
 import com.coursera.lib.algs4.WeightedQuickUnionUF;
 

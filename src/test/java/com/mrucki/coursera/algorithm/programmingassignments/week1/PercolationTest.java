@@ -1,5 +1,6 @@
-package com.mrucki.coursera.algorithm.programmingassignments;
+package com.mrucki.coursera.algorithm.programmingassignments.week1;
 
+import com.mrucki.coursera.algorithm.programmingassignments.week1.Percolation;
 import org.junit.Test;
 
 import java.io.IOException;
